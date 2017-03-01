@@ -50,7 +50,8 @@
         ?>
 	</head>
 
-	<body>   
+	<body>
+		<h1>Ultime 10 Connessioni al Server: </h1>
     	<?php Run(); ?>
 	</body>
 
